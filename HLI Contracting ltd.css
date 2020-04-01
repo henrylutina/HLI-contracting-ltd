@@ -1,0 +1,218 @@
+body{
+    /* background-color:rgb(250, 216, 154); */
+}
+.nav{
+    position:sticky;
+    top:0em;
+    border-radius:.4em;
+    box-shadow:black 0px 0px 10px;
+    display:flex;
+    background-image:url(IMG_9960cf.jpg);
+    background-size:cover;
+    width:100%;
+    height: 14vh;
+}
+.logo{
+    width:8vw;
+    height:12vh;
+    margin-left:4em;
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:.4em;
+    margin-top:.3em;
+}
+.logo:hover{
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:.4em;
+    margin-top:.2em;
+    width:9vw;
+    height:13vh;
+}
+.nav-right{
+    display:flex;
+}
+.awe{
+    height:6vh;
+    width:3vw;
+    color:rgb(250, 224, 176);
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:50%;
+    margin-left:1em;
+}
+.awe:hover{
+    height:6vh;
+    width:3vw;
+    color:rgb(211, 97, 32);
+    background-color:rgb(250, 224, 176);
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:50%;
+    margin-left:1em;
+}
+.fontawesome{
+    margin-left:47em;
+    margin-top:0.4em;
+    display:flex;
+}
+.text{
+    position: absolute;
+    top:4.5%;
+    text-shadow:black  0px 0px 8px;
+    color:rgb(250, 224, 176);
+    right:40.6%;
+    font-weight: bolder;
+}
+.forbutton{
+    margin-left:15.2em;
+    display:flex;
+}
+a{
+    text-decoration:none;
+}
+.navbutton{
+    color:rgb(253, 240, 215);
+    box-shadow:black 0px 0px 7px;
+    border: 1px solid white;
+    border-radius:.4em;
+    text-shadow:rgb(253, 240, 215) 0px 0px 1.4px;
+    font-weight:bolder;
+    font-size:1.2em;
+}
+.navbutton:hover{
+    color:rgb(97, 40, 7);
+    background-color:rgb(250, 224, 176);
+    box-shadow:rgb(236, 190, 103) 0px 0px 7px;
+    border: 2px solid rgb(250, 224, 176);
+    border-radius:.4em;
+    text-shadow:rgb(211, 97, 32) 0px 0px 1.9px;
+    font-weight:bolder;
+    font-size:1.2em;
+}
+.first{
+    width:100%;
+    height:90vh;
+    background:url(IMG_9960aa.jpg) no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    border-radius:.4em;
+    box-shadow:black 0px 0px 10px;
+    margin-top:1em;
+}
+.writeup{
+    padding-top: 7.5em;
+    margin-left:3em;
+    font-size:2em;
+    text-shadow:rgb(250, 224, 176)  0px 0px 3px;
+    color:rgb(250, 224, 176);
+    font-weight: bolder;
+}
+.grid{
+    text-align: center;
+    display:flex;
+}
+.template:hover{
+    color:rgb(97, 40, 7);
+    /* background-color:rgb(252, 236, 206); */
+}
+.arc{
+    text-shadow:black  0px 0px 2px;
+    font-weight: bolder;
+}
+.good{
+    text-shadow:gray  0px 0px 2px;
+    color:gray;
+}
+.ni{
+    padding-bottom:.3em;
+    border-bottom: 2px solid rgb(97, 40, 7);
+}
+.Nigerian{
+    margin-top:1.6em;
+    font-size:2em;
+    text-shadow:black  0px 0px 2px;
+    font-weight: bolder;
+}
+.cont{
+    height:60vh;
+    width:100%;
+    color:rgb(250, 224, 176);
+    box-shadow:black 0px 0px 7px;
+    border-radius:.3em;
+    margin-top:3em;
+}
+.paralax{
+    background:url(IMG_9960aa.jpg) no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    height:61vh;
+    box-shadow:black 0px 0px 7px;
+    border-radius:.3em;
+}
+footer{
+    text-shadow:rgb(250, 224, 176)  0px 0px 3px;
+    color:rgb(250, 224, 176);
+    margin-top:4em;
+    margin-bottom:.4em;
+    width:100%;
+    background:url(IMG_9960aa.jpg) no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    height:30vh;
+    box-shadow:black 0px 0px 7px;
+    border-radius:.3em;
+}
+.bottom{
+    box-sizing: border-box;
+    padding:1.4em 5em;
+    display:flex;
+    width:100%;
+    margin-bottom:.3em;
+    height:8vh;
+    border-radius:.4em;
+    background:url(IMG_9960aa.jpg) no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    box-shadow:black 0px 0px 7px;
+    color:rgb(253, 240, 215);
+    text-shadow:rgb(253, 240, 215) 0px 0px 1.4px;
+}
+.forbutton2{
+    margin-left:5em;
+    display:flex;
+}
+.navbutton1{
+    color:rgb(253, 240, 215);
+    width:7vw;
+}
+.fontawesome2{
+    border-radius:.1em;
+    width:18vw;
+    padding:.4em;
+    background:url(IMG_9960aa.jpg) no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    box-shadow:black 0px 0px 7px;
+    margin-left:7em;
+    margin-top:-4.5em;
+    display:flex;
+}.awe2{
+    height:4vh;
+    width:1.8vw;
+    color:rgb(250, 224, 176);
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:50%;
+    margin-left:1em;
+}
+.awe2:hover{
+    height:4vh;
+    width:1.8vw;
+    color:rgb(211, 97, 32);
+    background-color:rgb(250, 224, 176);
+    box-shadow:black 0px 0px 7px;
+    border: 2px solid white;
+    border-radius:50%;
+    margin-left:1em;
+}
